@@ -1,0 +1,56 @@
+{
+  "allVideos": [
+    {
+      "id": "2",
+      "caption": "ARM",
+      "url": "https://i.ytimg.com/vi/eV5qjOiKGI4/maxresdefault.jpg",
+      "link": "https://www.youtube.com/embed/B2UBMTA57JI"
+    },
+    {
+      "id": "6",
+      "caption": "Maheshinte Prathikaaram",
+      "url": "https://i.ytimg.com/vi/NL5bYMXCSJ0/hqdefault.jpg?sqp=-oaymwExCNACELwBSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYWiBfKGUwDw==&rs=AOn4CLDb77dGlkJujjIfa5y4C-3kM9UbCw",
+      "link": "https://www.youtube.com/embed/B2UBMTA57JI"
+    },
+    {
+      "id": "1",
+      "caption": "Maheshinte Prathikaaram",
+      "url": "https://i.ytimg.com/vi/NL5bYMXCSJ0/hqdefault.jpg?sqp=-oaymwExCNACELwBSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYWiBfKGUwDw==&rs=AOn4CLDb77dGlkJujjIfa5y4C-3kM9UbCw",
+      "link": "https://www.youtube.com/embed/B2UBMTA57JI"
+    }
+  ],
+  "history": [
+    {
+      "caption": "Paiya - Thuli Thuli ",
+      "link": "https://www.youtube.com/embed/v-hL3sks2qI",
+      "timeStamp": "11/11/2024, 11:11:40 AM",
+      "id": 1
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "categoryName": "Album",
+      "allVideos": [
+        {
+          "id": "6",
+          "caption": "Maheshinte Prathikaaram",
+          "url": "https://i.ytimg.com/vi/NL5bYMXCSJ0/hqdefault.jpg?sqp=-oaymwExCNACELwBSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYWiBfKGUwDw==&rs=AOn4CLDb77dGlkJujjIfa5y4C-3kM9UbCw",
+          "link": "https://www.youtube.com/embed/B2UBMTA57JI"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "categoryName": "Movies",
+      "allVideos": [
+        {
+          "id": "6",
+          "caption": "Maheshinte Prathikaaram",
+          "url": "https://i.ytimg.com/vi/NL5bYMXCSJ0/hqdefault.jpg?sqp=-oaymwExCNACELwBSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYWiBfKGUwDw==&rs=AOn4CLDb77dGlkJujjIfa5y4C-3kM9UbCw",
+          "link": "https://www.youtube.com/embed/B2UBMTA57JI"
+        }
+      ]
+    }
+  ]
+}
